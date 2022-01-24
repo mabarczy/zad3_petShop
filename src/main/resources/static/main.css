@@ -1,0 +1,31 @@
+.product {
+    border: 1px solid black;
+    margin: 10px;
+    width: 700px;
+    padding: 10px;
+}
+
+.product .name {
+    font-size: 22px;
+}
+
+.product .price {
+    font-size: 15px;
+    display: inline-block;
+}
+
+.product .id {
+    font-size: 15px;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.product .quantity {
+    font-size: 15px;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.product div {
+    margin: 10px;
+}
